@@ -1,4 +1,22 @@
-## Hi there 👋
+### Olá,
+Meu nome é Allan Corrêa de Negri
+
+Formação:
+
+-Técnico de Mecânica de Aeronaves;
+
+-Licenciatura em Física (USP);
+
+-Pós-graduação do Ensino da Matemática e da Física; e
+
+-Cursando Engenharia da Computação.
+
+Experiência profissional:
+
+- Metrologista: Medições dimensionais e física, calibração e especificações técnicas de componentes mecânicos.
+- Professor: tecnoloiga e robótica, educação financeira, matemática, química e física 
+
+-![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5iOHp0ZWIxYW5iNHp2N2V5a3NzODMzbjRzaGZkeDhub2tlb21kaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NsKjvlTb3xY9Mw8Jpf/giphy.webp)
 
 <!--
 **allannegri/allannegri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
