@@ -1,7 +1,7 @@
 ### Olá,
 Meu nome é Allan Corrêa de Negri
 
-<h6>Formação:</h6>h6>
+<h1>Formação:</h1>
 
 -Técnico de Mecânica de Aeronaves;
 
