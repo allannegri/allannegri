@@ -12,7 +12,7 @@ Formação:
 -Cursando Engenharia da Computação.
 
 Experiência profissional:
-
+- Mecânica de aeronaves
 - Metrologista: Medições dimensionais e física, calibração e especificações técnicas de componentes mecânicos.
 - Professor: tecnoloiga e robótica, educação financeira, matemática e física 
 
