@@ -15,11 +15,11 @@ Meu nome é Allan Corrêa de Negri
 
 -Técnico de Mecânica de Aeronaves(EEAR);
 
--Licenciatura em Física (USP);
+-Graduação em Física (USP);
 
 -Pós-graduação do Ensino da Matemática e da Física; e
 
--Engenharia da Computação.
+-Graduação em Engenharia da Computação.
 
 <h1>Experiência profissional:</h1>
 
