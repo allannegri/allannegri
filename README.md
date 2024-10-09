@@ -19,13 +19,16 @@ Meu nome é Allan Corrêa de Negri
 
 -Pós-graduação do Ensino da Matemática e da Física; e
 
--Graduação em Engenharia da Computação.
-
+-Cursando Graduação em Engenharia da Computação.
+<h1> Habilidades e competências </h1>
+Matemática e física de níveis médio. Cálculo e física de níveis superiores. Estatística. Conhecimento c++, Java, JavaScript, scratch e SQL. 
+  
 <h1>Experiência profissional:</h1>
 
 - Mecânico de aeronaves da Força Aérea Brasileira.
 
 - Metrologista: Medições dimensionais e físicas, calibração,  máquinas demedição por coordenada e especificações técnicas de componentes mecânicos. Desenho técnico. Análise e cálculo de dados estático.
+- Experiência mercado de capitais.
   
 - Professor: tecnoloiga e robótica, educação financeira, matemática e física 
 
