@@ -28,7 +28,7 @@ Matemática e física de níveis médio. Cálculo e física de níveis superiore
 - Mecânico de aeronaves da Força Aérea Brasileira.
 
 - Metrologista: Medições dimensionais e físicas, calibração,  máquinas demedição por coordenada e especificações técnicas de componentes mecânicos. Desenho técnico. Análise e cálculo de dados estático.
-- Experiência mercado de capitais.
+- Experiência com o mercado de capitais.
   
 - Professor: tecnoloiga e robótica, educação financeira, matemática e física 
 
