@@ -3,6 +3,16 @@ Meu nome é Allan Corrêa de Negri
 
 <h1>Formação:</h1>
 
+-Metrologia dimensional(IFI);;
+
+-Metrologia física(IFI);;
+
+-Estatistica;
+
+- NBR 17025(60h);
+- 
+- Gestão da qualidade;
+
 -Técnico de Mecânica de Aeronaves(EEAR);
 
 -Licenciatura em Física (USP);
@@ -15,7 +25,7 @@ Meu nome é Allan Corrêa de Negri
 
 - Mecânico de aeronaves da Força Aérea Brasileira.
 
-- Metrologista: Medições dimensionais e física, calibração e especificações técnicas de componentes mecânicos.
+- Metrologista: Medições dimensionais e físicas, calibração,  máquinas demedição por coordenada e especificações técnicas de componentes mecânicos. Desenho técnico. Análise e cálculo de dados estático.
   
 - Professor: tecnoloiga e robótica, educação financeira, matemática e física 
 
