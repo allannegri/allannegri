@@ -15,7 +15,7 @@ Meu nome é Allan Corrêa de Negri
 
 -Gestão da qualidade;
 
--Técnico de Mecânica de Aeronaves(EEAR);
+-Técnico em Mecânica de Aeronaves(EEAR);
 
 -Graduação em Física (USP);
 
