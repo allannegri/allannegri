@@ -9,11 +9,11 @@ Meu nome é Allan Corrêa de Negri
 
 -Pós-graduação do Ensino da Matemática e da Física; e
 
--Cursando Engenharia da Computação.
+-Engenharia da Computação.
 
 <h1>Experiência profissional:</h1>
 
-- Mecânica de aeronaves da Força Aérea Brasileira.
+- Mecânico de aeronaves da Força Aérea Brasileira.
 
 - Metrologista: Medições dimensionais e física, calibração e especificações técnicas de componentes mecânicos.
   
