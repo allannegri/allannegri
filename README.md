@@ -10,7 +10,7 @@ Meu nome é Allan Corrêa de Negri
 -Estatistica;
 
 - NBR 17025(60h);
-- 
+
 - Gestão da qualidade;
 
 -Técnico de Mecânica de Aeronaves(EEAR);
