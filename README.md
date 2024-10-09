@@ -32,7 +32,7 @@ Conhecimento de matemática, cálculo e física de níveis de educação média 
 - Metrologista: Medições dimensionais e físicas, calibração,  máquinas demedição por coordenada e especificações técnicas de componentes mecânicos. Desenho técnico. Análise e cálculo de dados estático.
 - Experiência com o mercado de capitais.
   
-- Professor: tecnoloiga e robótica, educação financeira, matemática e física 
+- Professor: tecnologia e robótica, educação financeira, matemática e física 
 
 -![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5iOHp0ZWIxYW5iNHp2N2V5a3NzODMzbjRzaGZkeDhub2tlb21kaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NsKjvlTb3xY9Mw8Jpf/giphy.webp)
 
