@@ -7,6 +7,8 @@ Meu nome é Allan Corrêa de Negri
 
 -Metrologia física(IFI);
 
+-Máquinas de medição por coordenadas;
+
 -Estatistica;
 
 -NBR 17025;
