@@ -3,13 +3,13 @@ Meu nome é Allan Corrêa de Negri
 
 <h1>Formação:</h1>
 
--Metrologia dimensional(IFI);;
+-Metrologia dimensional(IFI);
 
--Metrologia física(IFI);;
+-Metrologia física(IFI);
 
 -Estatistica;
 
--NBR 17025(60h);
+-NBR 17025;
 
 -Gestão da qualidade;
 
