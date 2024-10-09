@@ -3,7 +3,7 @@ Meu nome é Allan Corrêa de Negri
 
 <h1>Formação:</h1>
 
--Técnico de Mecânica de Aeronaves;
+-Técnico de Mecânica de Aeronaves(EEAR);
 
 -Licenciatura em Física (USP);
 
@@ -13,7 +13,7 @@ Meu nome é Allan Corrêa de Negri
 
 <h1>Experiência profissional:</h1>
 
-- Mecânica de aeronaves
+- Mecânica de aeronaves da Força Aérea Brasileira.
 
 - Metrologista: Medições dimensionais e física, calibração e especificações técnicas de componentes mecânicos.
   
