@@ -27,12 +27,12 @@ Conhecimento de matemática, cálculo e física de níveis de educação média 
   
 <h1>Experiência profissional:</h1>
 
-- Mecânico de aeronaves da Força Aérea Brasileira.
+- Mecânico de aeronaves da Força Aérea Brasileira.(2005-2012)
 
-- Metrologista: Medições dimensionais e físicas, calibração,  máquinas demedição por coordenada e especificações técnicas de componentes mecânicos. Desenho técnico. Análise e cálculo de dados estático.
-- Experiência com o mercado de capitais.
+- Metrologista: Medições dimensionais e físicas, calibração,  máquinas demedição por coordenada e especificações técnicas de componentes mecânicos. Desenho técnico. Análise e cálculo de dados estático.(2010-atualmente)
+- Experiência com o mercado de capitais.(2014-atualmente)
   
-- Professor: tecnologia e robótica, educação financeira, matemática e física 
+- Professor: tecnologia e robótica, educação financeira, matemática e física(2024)
 
 -![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5iOHp0ZWIxYW5iNHp2N2V5a3NzODMzbjRzaGZkeDhub2tlb21kaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NsKjvlTb3xY9Mw8Jpf/giphy.webp)
 
