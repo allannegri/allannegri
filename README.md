@@ -23,7 +23,7 @@ Meu nome é Allan Corrêa de Negri
 
 -Cursando Graduação em Engenharia da Computação.
 <h1> Habilidades e competências </h1>
-Conhecimento de matemática, cálculo e física de níveis de educação média e superior, estatística, linguagens c++, Java, JavaScript, scratch e SQL e Contabilidade. Habilidade com diversos sistemas de medições dimensionais e fisicos e com tratamento dos dados gerados. 
+Conhecimento de matemática, cálculo e física de níveis de educação média e superior, estatística, linguagens c++, Java, JavaScript, scratch e SQL e Contabilidade. Habilidade com diversos sistemas de medições dimensionais e físicos e com tratamento dos dados gerados. 
   
 <h1>Experiência profissional:</h1>
 
